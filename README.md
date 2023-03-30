@@ -28,8 +28,8 @@
    * AWS Automation - Python Script 1
    * AWS Automation - Python Script 2
    * AWS Automation - Python Script 3
-   * AWS Automation - Python scripting 4
-   * AWS Automation - Python scripting 5
+   * AWS Automation - Python script 4
+   * AWS Automation - Python script 5
    * Cisco Automation - Getting Started
    * Cisco Automation - GNS3
    * Cisco Automation - Python 
