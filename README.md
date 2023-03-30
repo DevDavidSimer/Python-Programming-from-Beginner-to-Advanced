@@ -12,11 +12,11 @@
    
 ## 🟢Course contents: 
     
-   * Python - Getting Started
-   * Python - Let's go with Python!
-   * Replit
-   * Python basics
-   * Operators
+   * Python - Getting Started - ✅
+   * Python - Let's go with Python! - ✅
+   * Replit - ✅
+   * Python basics - ✅
+   * Operators - ✅
    * Flow Control
    * Functions
    * Data Structures
